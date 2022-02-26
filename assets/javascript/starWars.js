@@ -4,7 +4,7 @@ $(document).ready(function() {
       "Mace Windu": {
       name: "Mace Windu",
       health: 190,
-      attack: 20,
+      attack: 25,
       defense: 10,
       imageURL: "assets/images/mace-windu.jpg",
       enemyAttackBack: 33
@@ -20,7 +20,7 @@ $(document).ready(function() {
       "Yoda": {
       name: "Yoda",
       health: 140,
-      attack: 25,
+      attack: 27,
       defense: 15,
       imageURL: "assets/images/yoda.jpg",
       enemyAttackBack: 25
