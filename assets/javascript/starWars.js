@@ -22,7 +22,7 @@ $(document).ready(function() {
       health: 140,
       attack: 27,
       defense: 15,
-      imageURL: "assets/images/yoda.jpg",
+      imageURL: "assets/images/yoda2.jpg",
       enemyAttackBack: 25
       },
       "Darth Maul": {
